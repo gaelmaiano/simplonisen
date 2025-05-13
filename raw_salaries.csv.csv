@@ -1,0 +1,405 @@
+COD_VAR;LIB_VAR;COD_MOD;LIB_MOD1
+A38;Activité principale en 38 postes;99;Ensemble
+A38;Activité principale en 38 postes;BZ;BZ : Industries extractives
+A38;Activité principale en 38 postes;CA;CA : Fabrication de denrées alimentaires, de boissons et de produits à base de tabac
+A38;Activité principale en 38 postes;CB;CB : Fabrication de textiles, industries de l'habillement, industrie du cuir et de la chaussure
+A38;Activité principale en 38 postes;CC;CC : Travail du bois, industries du papier et imprimerie
+A38;Activité principale en 38 postes;CD;CD : Cokéfaction et raffinage
+A38;Activité principale en 38 postes;CE;CE : Industrie chimique
+A38;Activité principale en 38 postes;CF;CF : Industrie pharmaceutique
+A38;Activité principale en 38 postes;CG;CG : Fabrication de produits en caoutchouc et en plastique ainsi que d'autres produits minéraux non métalliques
+A38;Activité principale en 38 postes;CH;CH : Métallurgie et fabrication de produits métalliques à l'exception des machines et des équipements
+A38;Activité principale en 38 postes;CI;CI : Fabrication de produits informatiques, électroniques et optiques
+A38;Activité principale en 38 postes;CJ;CJ : Fabrication d'équipements électriques
+A38;Activité principale en 38 postes;CK;CK : Fabrication de machines et équipements n.c.a.
+A38;Activité principale en 38 postes;CL;CL : Fabrication de matériels de transport
+A38;Activité principale en 38 postes;CM;CM : Autres industries manufacturières , réparation et installation de machines et d'équipements
+A38;Activité principale en 38 postes;DZ;DZ : Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné
+A38;Activité principale en 38 postes;EZ;EZ : Production et distribution d'eau , assainissement, gestion des déchets et dépollution
+A38;Activité principale en 38 postes;FZ;FZ : Construction
+A38;Activité principale en 38 postes;GZ;GZ : Commerce , réparation d'automobiles et de motocycles
+A38;Activité principale en 38 postes;HZ;HZ : Transports et entreposage
+A38;Activité principale en 38 postes;IZ;IZ : Hébergement et restauration
+A38;Activité principale en 38 postes;JA;JA : Edition, audiovisuel et diffusion
+A38;Activité principale en 38 postes;JB;JB : Télécommunications
+A38;Activité principale en 38 postes;JC;JC : Activités informatiques et services d'information
+A38;Activité principale en 38 postes;KZ;KZ : Activités financières et d'assurance
+A38;Activité principale en 38 postes;LZ;LZ : Activités immobilières
+A38;Activité principale en 38 postes;MA;MA : Activités juridiques, comptables, de gestion, d'architecture, d'ingénierie, de contrôle et d'analyses techniques
+A38;Activité principale en 38 postes;MB;MB : Recherche-développement scientifique
+A38;Activité principale en 38 postes;MC;MC : Autres activités spécialisées, scientifiques et techniques
+A38;Activité principale en 38 postes;NZ;NZ : Activités de services administratifs et de soutien
+A38;Activité principale en 38 postes;OZ;OZ : Administration publique
+A38;Activité principale en 38 postes;PZ;PZ : Enseignement
+A38;Activité principale en 38 postes;QA;QA : Activités pour la santé humaine
+A38;Activité principale en 38 postes;QB;QB : Hébergement médico-social et social et action sociale sans hébergement
+A38;Activité principale en 38 postes;RZ;RZ : Arts, spectacles et activités récréatives
+A38;Activité principale en 38 postes;SZ;SZ : Autres activités de services
+A6_17;Activité principale en 6 ou 17 postes;9999;Ensemble
+A6_17;Activité principale en 6 ou 17 postes;BE99;BE : Industrie manufacturière, industries extractives et autres
+A6_17;Activité principale en 6 ou 17 postes;BEDE;DE : Industries extractives, énergie, eau, gestion des déchets et dépollution
+A6_17;Activité principale en 6 ou 17 postes;BEC1;C1 : Fabrication de denrées alimentaires, de boissons et de produits à base de tabac
+A6_17;Activité principale en 6 ou 17 postes;BEC2;C2 : Cokéfaction et raffinage
+A6_17;Activité principale en 6 ou 17 postes;BEC3;C3 : Fabrication d'équipements électriques, électroniques, informatiques , fabrication de machines
+A6_17;Activité principale en 6 ou 17 postes;BEC4;C4 : Fabrication de matériels de transport
+A6_17;Activité principale en 6 ou 17 postes;BEC5;C5 : Fabrication d'autres produits industriels
+A6_17;Activité principale en 6 ou 17 postes;FZ99;FZ : Construction
+A6_17;Activité principale en 6 ou 17 postes;GI99;GI : Commerce de gros et de détail, transports, hébergement et restauration
+A6_17;Activité principale en 6 ou 17 postes;GIGZ;GZ : Commerce , réparation d'automobiles et de motocycles
+A6_17;Activité principale en 6 ou 17 postes;GIHZ;HZ : Transports et entreposage
+A6_17;Activité principale en 6 ou 17 postes;GIIZ;IZ : Hébergement et restauration
+A6_17;Activité principale en 6 ou 17 postes;JU99;JU : Services divers
+A6_17;Activité principale en 6 ou 17 postes;JUJZ;JZ : Information et communication
+A6_17;Activité principale en 6 ou 17 postes;JUKZ;KZ : Activités financières et d'assurance
+A6_17;Activité principale en 6 ou 17 postes;JULZ;LZ : Activités immobilières
+A6_17;Activité principale en 6 ou 17 postes;JUMN;MN : Activités scientifiques et techniques , services administratifs et de soutien
+A6_17;Activité principale en 6 ou 17 postes;JURU;RU : Autres activités de services
+A6_17;Activité principale en 6 ou 17 postes;OQ99;OQ : Administration publique, enseignement, santé et action sociale
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;99999999;Ensemble
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BE999999;BE : Industrie manufacturière, industries extractives et autres
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEDE9999;BE - DE : Industries extractives, énergie, eau, gestion des déchets et dépollution
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEDEBZ99;BE - DE - BZ : Industries extractives
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEDEBZ05;BE - DE - BZ - 05 : Extraction de houille et de lignite
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEDEBZ06;BE - DE - BZ - 06 : Extraction d'hydrocarbures
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEDEBZ07;BE - DE - BZ - 07 : Extraction de minerais métalliques
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEDEBZ08;BE - DE - BZ - 08 : Autres industries extractives
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEDEBZ09;BE - DE - BZ - 09 : Services de soutien aux industries extractives
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEDEDZ99;BE - DE - DZ - 35 : Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEDEEZ99;BE - DE - EZ : Production et distribution d'eau , assainissement, gestion des déchets et dépollution
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEDEEZ36;BE - DE - EZ - 36 : Captage, traitement et distribution d'eau
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEDEEZ37;BE - DE - EZ - 37 : Collecte et traitement des eaux usées
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEDEEZ38;BE - DE - EZ - 38 : Collecte, traitement et élimination des déchets , récupération
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEDEEZ39;BE - DE - EZ - 39 : Dépollution et autres services de gestion des déchets
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC19999;BE - C1 - CA : Fabrication de denrées alimentaires, de boissons et de produits à base de tabac
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC1CA10;BE - C1 - CA - 10 : Industries alimentaires
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC1CA11;BE - C1 - CA - 11 : Fabrication de boissons
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC1CA12;BE - C1 - CA - 12 : Fabrication de produits à base de tabac
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC29999;BE - C2 - CD - 19 : Cokéfaction et raffinage
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC39999;BE - C3 : Fabrication d'équipements électriques, électroniques, informatiques , fabrication de machines
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC3CI99;BE - C3 - CI - 26 : Fabrication de produits informatiques, électroniques et optiques
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC3CJ99;BE - C3 - CJ - 27 : Fabrication d'équipements électriques
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC3CK99;BE - C3 - CK - 28 : Fabrication de machines et équipements n.c.a.
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC49999;BE - C4 - CL : Fabrication de matériels de transport
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC4CL29;BE - C4 - CL - 29 : Industrie automobile
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC4CL30;BE - C4 - CL - 30 : Fabrication d'autres matériels de transport
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC59999;BE - C5 : Fabrication d'autres produits industriels
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC5CB99;BE - C5 - CB : Fabrication de textiles, industries de l'habillement, industrie du cuir et de la chaussure
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC5CB13;BE - C5 - CB - 13 : Fabrication de textiles
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC5CB14;BE - C5 - CB - 14 : Industrie de l'habillement
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC5CB15;BE - C5 - CB - 15 : Industrie du cuir et de la chaussure
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC5CC99;BE - C5 - CC : Travail du bois, industries du papier et imprimerie
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC5CC16;BE - C5 - CC - 16 : Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles , fabrication d'articles en vannerie et sparterie
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC5CC17;BE - C5 - CC - 17 : Industrie du papier et du carton
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC5CC18;BE - C5 - CC - 18 : Imprimerie et reproduction d'enregistrements
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC5CE99;BE - C5 - CE - 20 : Industrie chimique
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC5CF99;BE - C5 - CF - 21 : Industrie pharmaceutique
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC5CG99;BE - C5 - CG : Fabrication de produits en caoutchouc et en plastique ainsi que d'autres produits minéraux non métalliques
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC5CG22;BE - C5 - CG - 22 : Fabrication de produits en caoutchouc et en plastique
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC5CG23;BE - C5 - CG - 23 : Fabrication d'autres produits minéraux non métalliques
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC5CH99;BE - C5 - CH : Métallurgie et fabrication de produits métalliques à l'exception des machines et des équipements
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC5CH24;BE - C5 - CH - 24 : Métallurgie
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC5CH25;BE - C5 - CH - 25 : Fabrication de produits métalliques, à l'exception des machines et des équipements
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC5CM99;BE - C5 - CM : Autres industries manufacturières , réparation et installation de machines et d'équipements
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC5CM31;BE - C5 - CM - 31 : Fabrication de meubles
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC5CM32;BE - C5 - CM - 32 : Autres industries manufacturières
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;BEC5CM33;BE - C5 - CM - 33 : Réparation et installation de machines et d'équipements
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;FZ999999;FZ - FZ - FZ : Construction
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;FZFZFZ41;FZ - FZ - FZ - 41 : Construction de bâtiments
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;FZFZFZ42;FZ - FZ - FZ - 42 : Génie civil
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;FZFZFZ43;FZ - FZ - FZ - 43 : Travaux de construction spécialisés
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;GI999999;GI : Commerce de gros et de détail, transports, hébergement et restauration
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;GIGZGZ99;GI - GZ - GZ : Commerce , réparation d'automobiles et de motocycles
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;GIGZGZ45;GI - GZ - GZ - 45 : Commerce et réparation d'automobiles et de motocycles
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;GIGZGZ46;GI - GZ - GZ - 46 : Commerce de gros, à l'exception des automobiles et des motocycles
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;GIGZGZ47;GI - GZ - GZ - 47 : Commerce de détail, à l'exception des automobiles et des motocycles
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;GIHZ9999;GI - HZ - HZ : Transports et entreposage
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;GIHZHZ49;GI - HZ - HZ - 49 : Transports terrestres et transport par conduites
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;GIHZHZ50;GI - HZ - HZ - 50 : Transports par eau
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;GIHZHZ51;GI - HZ - HZ - 51 : Transports aériens
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;GIHZHZ52;GI - HZ - HZ - 52 : Entreposage et services auxiliaires des transports
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;GIHZHZ53;GI - HZ - HZ - 53 : Activités de poste et de courrier
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;GIIZ9999;GI - IZ - IZ : Hébergement et restauration
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;GIIZIZ55;GI - IZ - IZ - 55 : Hébergement
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;GIIZIZ56;GI - IZ - IZ - 56 : Restauration
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JU999999;JU : Services divers
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JUJZ9999;JU - JZ : Information et communication
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JUJZJA99;JU - JZ - JA : Edition, audiovisuel et diffusion
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JUJZJA58;JU - JZ - JA - 58 : Édition
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JUJZJA59;JU - JZ - JA - 59 : Production de films cinématographiques, de vidéo et de programmes de télévision , enregistrement sonore et édition musicale
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JUJZJA60;JU - JZ - JA - 60 : Programmation et diffusion
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JUJZJB99;JU - JZ - JB - 61 : Télécommunications
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JUJZJC99;JU - JZ - JC : Activités informatiques et services d'information
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JUJZJC62;JU - JZ - JC - 62 : Programmation, conseil et autres activités informatiques
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JUJZJC63;JU - JZ - JC - 63 : Services d'information
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JUKZ9999;JU - KZ - KZ : Activités financières et d'assurance
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JUKZKZ64;JU - KZ - KZ - 64 : Activités des services financiers, hors assurance et caisses de retraite
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JUKZKZ65;JU - KZ - KZ - 65 : Assurance
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JUKZKZ66;JU - KZ - KZ - 66 : Activités auxiliaires de services financiers et d'assurance
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JULZ9999;JU - LZ - LZ - 68 : Activités immobilières
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JUMN9999;JU - MN : Activités scientifiques et techniques , services administratifs et de soutien
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JUMNMA99;JU - MN - MA : Activités juridiques, comptables, de gestion, d'architecture, d'ingénierie, de contrôle et d'analyses techniques
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JUMNMA69;JU - MN - MA - 69 : Activités juridiques et comptables
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JUMNMA70;JU - MN - MA - 70 : Activités des sièges sociaux , conseil de gestion
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JUMNMA71;JU - MN - MA - 71 : Activités d'architecture et d'ingénierie , activités de contrôle et analyses techniques
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JUMNMB99;JU - MN - MB - 72 : Recherche-développement scientifique
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JUMNMC99;JU - MN - MC : Autres activités spécialisées, scientifiques et techniques
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JUMNMC73;JU - MN - MC - 73 : Publicité et études de marché
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JUMNMC74;JU - MN - MC - 74 : Autres activités spécialisées, scientifiques et techniques
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JUMNMC75;JU - MN - MC - 75 : Activités vétérinaires
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JUMNNZ99;JU - MN - NZ : Activités de services administratifs et de soutien
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JUMNNZ77;JU - MN - NZ - 77 : Activités de location et location-bail
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JUMNNZ78;JU - MN - NZ - 78 : Activités liées à l'emploi
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JUMNNZ79;JU - MN - NZ - 79 : Activités des agences de voyage, voyagistes, services de réservation et activités connexes
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JUMNNZ80;JU - MN - NZ - 80 : Enquêtes et sécurité
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JUMNNZ81;JU - MN - NZ - 81 : Services relatifs aux bâtiments et aménagement paysager
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JUMNNZ82;JU - MN - NZ - 82 : Activités administratives et autres activités de soutien aux entreprises
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JURU9999;JU - RU : Autres activités de services
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JURURZ99;JU - RU - RZ : Arts, spectacles et activités récréatives
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JURURZ90;JU - RU - RZ - 90 : Activités créatives, artistiques et de spectacle
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JURURZ91;JU - RU - RZ - 91 : Bibliothèques, archives, musées et autres activités culturelles
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JURURZ92;JU - RU - RZ - 92 : Organisation de jeux de hasard et d'argent
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JURURZ93;JU - RU - RZ - 93 : Activités sportives, récréatives et de loisirs
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JURUSZ99;JU - RU - SZ : Autres activités de services
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JURUSZ94;JU - RU - SZ - 94 : Activités des organisations associatives
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JURUSZ95;JU - RU - SZ - 95 : Réparation d'ordinateurs et de biens personnels et domestiques
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;JURUSZ96;JU - RU - SZ - 96 : Autres services personnels
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;OQ999999;OQ - OQ : Administration publique, enseignement, santé et action sociale
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;OQOQOZ99;OQ - OQ - OZ - 84 : Administration publique
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;OQOQPZ99;OQ - OQ - PZ - 85 : Enseignement
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;OQOQQA99;OQ - OQ - QA - 86 : Activités pour la santé humaine
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;OQOQQB99;OQ - OQ - QB : Hébergement médico-social et social et action sociale sans hébergement
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;OQOQQB87;OQ - OQ - QB - 87 : Hébergement médico-social et social
+A6_88;Activité principale en 6, 17, 38 ou 88 postes;OQOQQB88;OQ - OQ - QB - 88 : Action sociale sans hébergement
+CE;Condition d'emploi;T;Tous postes
+CE;Condition d'emploi;C;Temps complet
+CE;Condition d'emploi;N;Temps non complet
+CS1;Catégorie socioprofessionnelle (5 modalités);T;Ensemble
+CS1;Catégorie socioprofessionnelle (5 modalités);3;Cadres et professions intellectuelles supérieures
+CS1;Catégorie socioprofessionnelle (5 modalités);4;Professions intermédiaires
+CS1;Catégorie socioprofessionnelle (5 modalités);5;Employés
+CS1;Catégorie socioprofessionnelle (5 modalités);6Q;Ouvriers qualifiés
+CS1;Catégorie socioprofessionnelle (5 modalités);6N;Ouvriers non qualifiés
+CS2;Catégorie socioprofessionnelle (25 modalités);TT;Ensemble
+CS2;Catégorie socioprofessionnelle (25 modalités);31;Professions libérales (exercées sous statut de salarié)
+CS2;Catégorie socioprofessionnelle (25 modalités);33;Cadres de la fonction publique
+CS2;Catégorie socioprofessionnelle (25 modalités);34;Professeurs, professions scientifiques
+CS2;Catégorie socioprofessionnelle (25 modalités);35;Professions de l'information, des arts et des spectacles
+CS2;Catégorie socioprofessionnelle (25 modalités);37;Cadres administratifs et commerciaux d'entreprise
+CS2;Catégorie socioprofessionnelle (25 modalités);38;Ingénieurs et cadres techniques d'entreprise
+CS2;Catégorie socioprofessionnelle (25 modalités);42;Professeurs des écoles, instituteurs et professions assimilées
+CS2;Catégorie socioprofessionnelle (25 modalités);43;Professions intermédiaires de la santé et du travail social
+CS2;Catégorie socioprofessionnelle (25 modalités);44;Clergé, religieux
+CS2;Catégorie socioprofessionnelle (25 modalités);45;Professions intermédiaires administratives de la fonction publique
+CS2;Catégorie socioprofessionnelle (25 modalités);46;Professions intermédiaires administratives et commerciales des entreprises
+CS2;Catégorie socioprofessionnelle (25 modalités);47;Techniciens (sauf techniciens tertiaires)
+CS2;Catégorie socioprofessionnelle (25 modalités);48;Contremaîtres, agents de maîtrise (maîtrise administrative exclue)
+CS2;Catégorie socioprofessionnelle (25 modalités);52;Employés civils et agents de service de la fonction publique
+CS2;Catégorie socioprofessionnelle (25 modalités);53;Agents de surveillance
+CS2;Catégorie socioprofessionnelle (25 modalités);54;Employés administratifs d'entreprise
+CS2;Catégorie socioprofessionnelle (25 modalités);55;Employés de commerce
+CS2;Catégorie socioprofessionnelle (25 modalités);56;Personnels des services directs aux particuliers
+CS2;Catégorie socioprofessionnelle (25 modalités);62;Ouvriers qualifiés de type industriel
+CS2;Catégorie socioprofessionnelle (25 modalités);63;Ouvriers qualifiés de type artisanal
+CS2;Catégorie socioprofessionnelle (25 modalités);64;Chauffeurs
+CS2;Catégorie socioprofessionnelle (25 modalités);65;Ouvriers qualifiés de la manutention, du magasinage et du transport
+CS2;Catégorie socioprofessionnelle (25 modalités);67;Ouvriers non qualifiés de type industriel
+CS2;Catégorie socioprofessionnelle (25 modalités);68;Ouvriers non qualifiés de type artisanal
+CS2;Catégorie socioprofessionnelle (25 modalités);69;Ouvriers agricoles et assimilés
+IND_DIS_A;Indicateurs de dispersion (horaire);BRUT_H;Salaire brut horaire moyen (€)
+IND_DIS_A;Indicateurs de dispersion (horaire);P10_BRUT_H;Décile 10 du salaire brut horaire (€)
+IND_DIS_A;Indicateurs de dispersion (horaire);P20_BRUT_H;Décile 20 du salaire brut horaire (€)
+IND_DIS_A;Indicateurs de dispersion (horaire);P30_BRUT_H;Décile 30 du salaire brut horaire (€)
+IND_DIS_A;Indicateurs de dispersion (horaire);P40_BRUT_H;Décile 40 du salaire brut horaire (€)
+IND_DIS_A;Indicateurs de dispersion (horaire);P50_BRUT_H;Décile 50 du salaire brut horaire (€)
+IND_DIS_A;Indicateurs de dispersion (horaire);P60_BRUT_H;Décile 60 du salaire brut horaire (€)
+IND_DIS_A;Indicateurs de dispersion (horaire);P70_BRUT_H;Décile 70 du salaire brut horaire (€)
+IND_DIS_A;Indicateurs de dispersion (horaire);P80_BRUT_H;Décile 80 du salaire brut horaire (€)
+IND_DIS_A;Indicateurs de dispersion (horaire);P90_BRUT_H;Décile 90 du salaire brut horaire (€)
+IND_DIS_B;Indicateurs de dispersion (EQTP);BRUT_EQTP;Salaire brut en équivalent temps plein (€)
+IND_DIS_B;Indicateurs de dispersion (EQTP);P10_BRUT_EQTP;Décile 10 du salaire brut en équivalent temps plein (€)
+IND_DIS_B;Indicateurs de dispersion (EQTP);P20_BRUT_EQTP;Décile 20 du salaire brut en équivalent temps plein (€)
+IND_DIS_B;Indicateurs de dispersion (EQTP);P30_BRUT_EQTP;Décile 30 du salaire brut en équivalent temps plein (€)
+IND_DIS_B;Indicateurs de dispersion (EQTP);P40_BRUT_EQTP;Décile 40 du salaire brut en équivalent temps plein (€)
+IND_DIS_B;Indicateurs de dispersion (EQTP);P50_BRUT_EQTP;Décile 50 du salaire brut en équivalent temps plein (€)
+IND_DIS_B;Indicateurs de dispersion (EQTP);P60_BRUT_EQTP;Décile 60 du salaire brut en équivalent temps plein (€)
+IND_DIS_B;Indicateurs de dispersion (EQTP);P70_BRUT_EQTP;Décile 70 du salaire brut en équivalent temps plein (€)
+IND_DIS_B;Indicateurs de dispersion (EQTP);P80_BRUT_EQTP;Décile 80 du salaire brut en équivalent temps plein (€)
+IND_DIS_B;Indicateurs de dispersion (EQTP);P90_BRUT_EQTP;Décile 90 du salaire brut en équivalent temps plein (€)
+IND_EV_A;Indicateurs d’évolution (horaire);BRUT_H;Salaire brut horaire moyen (€)
+IND_EV_A;Indicateurs d’évolution (horaire);EVOL_BRUT_H;Evolution du salaire brut horaire (%)
+IND_EV_B;Indicateurs d’évolution (EQTP);BRUT_EQTP;Salaire brut en équivalent temps plein (€)
+IND_EV_B;Indicateurs d’évolution (EQTP);EVOL_BRUT_EQTP;Evolution du salaire brut en équivalent temps plein (%)
+IND_T100T300;Indicateurs de moyenne et de volume (horaire);BRUT_H;Salaire brut horaire moyen (€)
+IND_T100T300;Indicateurs de moyenne et de volume (horaire);NBHEUR;Nombre d'heures salariées (milliers)
+IND_T200T400;Indicateurs de moyenne et de volume (EQTP);BRUT_EQTP;Salaire brut en équivalent temps plein (€)
+IND_T200T400;Indicateurs de moyenne et de volume (EQTP);EQTP;Nombre d'équivalents temps plein
+REG;Région d'implantation de l'établissement;99;Ensemble
+REG;Région d'implantation de l'établissement;11;Île-de-France (11)
+REG;Région d'implantation de l'établissement;24;Centre-Val de Loire (24)
+REG;Région d'implantation de l'établissement;27;Bourgogne-Franche-Comté (27)
+REG;Région d'implantation de l'établissement;28;Normandie (28)
+REG;Région d'implantation de l'établissement;32;Hauts-de-France (32)
+REG;Région d'implantation de l'établissement;44;Grand-Est (44)
+REG;Région d'implantation de l'établissement;52;Pays de la Loire (52)
+REG;Région d'implantation de l'établissement;53;Bretagne (53)
+REG;Région d'implantation de l'établissement;75;Nouvelle-Aquitaine (75)
+REG;Région d'implantation de l'établissement;76;Occitanie (76)
+REG;Région d'implantation de l'établissement;84;Auvergne-Rhône-Alpes (84)
+REG;Région d'implantation de l'établissement;93;Provence-Alpes-Côte d'Azur (93)
+REG;Région d'implantation de l'établissement;94;Corse (94)
+REG;Région d'implantation de l'établissement;01;Guadeloupe (01)
+REG;Région d'implantation de l'établissement;02;Martinique (02)
+REG;Région d'implantation de l'établissement;03;Guyane (03)
+REG;Région d'implantation de l'établissement;04;La Réunion (04)
+REGDEP;Région et département d'implantation de l'établissement;99;Ensemble
+REGDEP;Région et département d'implantation de l'établissement;11;Île-de-France (11)
+REGDEP;Région et département d'implantation de l'établissement;1175;- Paris (75)
+REGDEP;Région et département d'implantation de l'établissement;1177;- Seine-et-Marne (77)
+REGDEP;Région et département d'implantation de l'établissement;1178;- Yvelines (78)
+REGDEP;Région et département d'implantation de l'établissement;1191;- Essonne (91)
+REGDEP;Région et département d'implantation de l'établissement;1192;- Hauts-de-Seine (92)
+REGDEP;Région et département d'implantation de l'établissement;1193;- Seine-Saint-Denis (93)
+REGDEP;Région et département d'implantation de l'établissement;1194;- Val-de-Marne (94)
+REGDEP;Région et département d'implantation de l'établissement;1195;- Val-d’Oise (95)
+REGDEP;Région et département d'implantation de l'établissement;24;Centre-Val de Loire (24)
+REGDEP;Région et département d'implantation de l'établissement;2418;- Cher (18)
+REGDEP;Région et département d'implantation de l'établissement;2428;- Eure-et-Loir (28)
+REGDEP;Région et département d'implantation de l'établissement;2436;- Indre (36)
+REGDEP;Région et département d'implantation de l'établissement;2437;- Indre-et-Loire (37)
+REGDEP;Région et département d'implantation de l'établissement;2441;- Loir-et-Cher (41)
+REGDEP;Région et département d'implantation de l'établissement;2445;- Loiret (45)
+REGDEP;Région et département d'implantation de l'établissement;27;Bourgogne-Franche-Comté (27)
+REGDEP;Région et département d'implantation de l'établissement;2721;- Côte-d'Or (21)
+REGDEP;Région et département d'implantation de l'établissement;2725;- Doubs (25)
+REGDEP;Région et département d'implantation de l'établissement;2739;- Jura (39)
+REGDEP;Région et département d'implantation de l'établissement;2758;- Nièvre (58)
+REGDEP;Région et département d'implantation de l'établissement;2770;- Haute-Saône (70)
+REGDEP;Région et département d'implantation de l'établissement;2771;- Saône-et-Loire (71)
+REGDEP;Région et département d'implantation de l'établissement;2789;- Yonne (89)
+REGDEP;Région et département d'implantation de l'établissement;2790;- Territoire de Belfort (90)
+REGDEP;Région et département d'implantation de l'établissement;28;Normandie (28)
+REGDEP;Région et département d'implantation de l'établissement;2814;- Calvados (14)
+REGDEP;Région et département d'implantation de l'établissement;2827;- Eure (27)
+REGDEP;Région et département d'implantation de l'établissement;2850;- Manche (50)
+REGDEP;Région et département d'implantation de l'établissement;2861;- Orne (61)
+REGDEP;Région et département d'implantation de l'établissement;2876;- Seine-Maritime (76)
+REGDEP;Région et département d'implantation de l'établissement;32;Hauts-de-France (32)
+REGDEP;Région et département d'implantation de l'établissement;3202;- Aisne (02)
+REGDEP;Région et département d'implantation de l'établissement;3259;- Nord (59)
+REGDEP;Région et département d'implantation de l'établissement;3260;- Oise (60)
+REGDEP;Région et département d'implantation de l'établissement;3262;- Pas-de-Calais (62)
+REGDEP;Région et département d'implantation de l'établissement;3280;- Somme (80)
+REGDEP;Région et département d'implantation de l'établissement;44;Grand-Est (44)
+REGDEP;Région et département d'implantation de l'établissement;4408;- Ardennes (08)
+REGDEP;Région et département d'implantation de l'établissement;4410;- Aube (10)
+REGDEP;Région et département d'implantation de l'établissement;4451;- Marne (51)
+REGDEP;Région et département d'implantation de l'établissement;4452;- Haute-Marne (52)
+REGDEP;Région et département d'implantation de l'établissement;4454;- Meurthe-et-Moselle (54)
+REGDEP;Région et département d'implantation de l'établissement;4455;- Meuse (55)
+REGDEP;Région et département d'implantation de l'établissement;4457;- Moselle (57)
+REGDEP;Région et département d'implantation de l'établissement;4467;- Bas-Rhin (67)
+REGDEP;Région et département d'implantation de l'établissement;4468;- Haut-Rhin (68)
+REGDEP;Région et département d'implantation de l'établissement;4488;- Vosges (88)
+REGDEP;Région et département d'implantation de l'établissement;52;Pays de la Loire (52)
+REGDEP;Région et département d'implantation de l'établissement;5244;- Loire-Atlantique (44)
+REGDEP;Région et département d'implantation de l'établissement;5249;- Maine-et-Loire (49)
+REGDEP;Région et département d'implantation de l'établissement;5253;- Mayenne (53)
+REGDEP;Région et département d'implantation de l'établissement;5272;- Sarthe (72)
+REGDEP;Région et département d'implantation de l'établissement;5285;- Vendée (85)
+REGDEP;Région et département d'implantation de l'établissement;53;Bretagne (53)
+REGDEP;Région et département d'implantation de l'établissement;5322;- Côtes-d'Armor (22)
+REGDEP;Région et département d'implantation de l'établissement;5329;- Finistère (29)
+REGDEP;Région et département d'implantation de l'établissement;5335;- Ille-et-Vilaine (35)
+REGDEP;Région et département d'implantation de l'établissement;5356;- Morbihan (56)
+REGDEP;Région et département d'implantation de l'établissement;75;Nouvelle-Aquitaine (75)
+REGDEP;Région et département d'implantation de l'établissement;7516;- Charente (16)
+REGDEP;Région et département d'implantation de l'établissement;7517;- Charente-Maritime (17)
+REGDEP;Région et département d'implantation de l'établissement;7519;- Corrèze (19)
+REGDEP;Région et département d'implantation de l'établissement;7523;- Creuse (23)
+REGDEP;Région et département d'implantation de l'établissement;7524;- Dordogne (24)
+REGDEP;Région et département d'implantation de l'établissement;7533;- Gironde (33)
+REGDEP;Région et département d'implantation de l'établissement;7540;- Landes (40)
+REGDEP;Région et département d'implantation de l'établissement;7547;- Lot-et-Garonne (47)
+REGDEP;Région et département d'implantation de l'établissement;7564;- Pyrénées-Atlantiques (64)
+REGDEP;Région et département d'implantation de l'établissement;7579;- Deux-Sèvres (79)
+REGDEP;Région et département d'implantation de l'établissement;7586;- Vienne (86)
+REGDEP;Région et département d'implantation de l'établissement;7587;- Haute-Vienne (87)
+REGDEP;Région et département d'implantation de l'établissement;76;Occitanie (76)
+REGDEP;Région et département d'implantation de l'établissement;7609;- Ariège (09)
+REGDEP;Région et département d'implantation de l'établissement;7611;- Aude (11)
+REGDEP;Région et département d'implantation de l'établissement;7612;- Aveyron (12)
+REGDEP;Région et département d'implantation de l'établissement;7630;- Gard (30)
+REGDEP;Région et département d'implantation de l'établissement;7631;- Haute-Garonne (31)
+REGDEP;Région et département d'implantation de l'établissement;7632;- Gers (32)
+REGDEP;Région et département d'implantation de l'établissement;7634;- Hérault (34)
+REGDEP;Région et département d'implantation de l'établissement;7646;- Lot (46)
+REGDEP;Région et département d'implantation de l'établissement;7648;- Lozère (48)
+REGDEP;Région et département d'implantation de l'établissement;7665;- Hautes-Pyrénées (65)
+REGDEP;Région et département d'implantation de l'établissement;7666;- Pyrénées-Orientales (66)
+REGDEP;Région et département d'implantation de l'établissement;7681;- Tarn (81)
+REGDEP;Région et département d'implantation de l'établissement;7682;- Tarn-et-Garonne (82)
+REGDEP;Région et département d'implantation de l'établissement;84;Auvergne-Rhône-Alpes (84)
+REGDEP;Région et département d'implantation de l'établissement;8401;- Ain (01)
+REGDEP;Région et département d'implantation de l'établissement;8403;- Allier (03)
+REGDEP;Région et département d'implantation de l'établissement;8407;- Ardèche (07)
+REGDEP;Région et département d'implantation de l'établissement;8415;- Cantal (15)
+REGDEP;Région et département d'implantation de l'établissement;8426;- Drôme (26)
+REGDEP;Région et département d'implantation de l'établissement;8438;- Isère (38)
+REGDEP;Région et département d'implantation de l'établissement;8442;- Loire (42)
+REGDEP;Région et département d'implantation de l'établissement;8443;- Haute-Loire (43)
+REGDEP;Région et département d'implantation de l'établissement;8463;- Puy-de-Dôme (63)
+REGDEP;Région et département d'implantation de l'établissement;8469;- Rhône (69)
+REGDEP;Région et département d'implantation de l'établissement;8473;- Savoie (73)
+REGDEP;Région et département d'implantation de l'établissement;8474;- Haute-Savoie (74)
+REGDEP;Région et département d'implantation de l'établissement;93;Provence-Alpes-Côte d'Azur (93)
+REGDEP;Région et département d'implantation de l'établissement;9304;- Alpes-de-Haute-Provence (04)
+REGDEP;Région et département d'implantation de l'établissement;9305;- Hautes-Alpes (05)
+REGDEP;Région et département d'implantation de l'établissement;9306;- Alpes-Maritimes (06)
+REGDEP;Région et département d'implantation de l'établissement;9313;- Bouches-du-Rhône (13)
+REGDEP;Région et département d'implantation de l'établissement;9383;- Var (83)
+REGDEP;Région et département d'implantation de l'établissement;9384;- Vaucluse (84)
+REGDEP;Région et département d'implantation de l'établissement;94;Corse (94)
+REGDEP;Région et département d'implantation de l'établissement;942A;- Corse-du-Sud (2A)
+REGDEP;Région et département d'implantation de l'établissement;942B;- Haute-Corse (2B)
+REGDEP;Région et département d'implantation de l'établissement;01971;Guadeloupe (01)
+REGDEP;Région et département d'implantation de l'établissement;02972;Martinique (02)
+REGDEP;Région et département d'implantation de l'établissement;03973;Guyane (03)
+REGDEP;Région et département d'implantation de l'établissement;04974;La Réunion (04)
+SEXE;Sexe;E;Ensemble
+SEXE;Sexe;H;Hommes
+SEXE;Sexe;F;Femmes
+TRAGE_12;Âge du salarié (12 modalités);TT;Ensemble
+TRAGE_12;Âge du salarié (12 modalités);17;Moins de 18 ans
+TRAGE_12;Âge du salarié (12 modalités);20;De 18 à 20 ans
+TRAGE_12;Âge du salarié (12 modalités);25;De 21 à 25 ans
+TRAGE_12;Âge du salarié (12 modalités);30;De 26 à 30 ans
+TRAGE_12;Âge du salarié (12 modalités);35;De 31 à 35 ans
+TRAGE_12;Âge du salarié (12 modalités);40;De 36 à 40 ans
+TRAGE_12;Âge du salarié (12 modalités);45;De 41 à 45 ans
+TRAGE_12;Âge du salarié (12 modalités);50;De 46 à 50 ans
+TRAGE_12;Âge du salarié (12 modalités);55;De 51 à 55 ans
+TRAGE_12;Âge du salarié (12 modalités);60;De 56 à 60 ans
+TRAGE_12;Âge du salarié (12 modalités);65;De 61 à 65 ans
+TRAGE_12;Âge du salarié (12 modalités);80;Plus de 65 ans
+TRAGE_3;Âge du salarié (3 modalités);T;Ensemble
+TRAGE_3;Âge du salarié (3 modalités);1;Moins de 26 ans
+TRAGE_3;Âge du salarié (3 modalités);2;De 26 à 50 ans
+TRAGE_3;Âge du salarié (3 modalités);3;Plus de 50 ans
+TREFF_12;Tranche d'effectif de l'établissement (en 12 modalités);TT;Ensemble
+TREFF_12;Tranche d'effectif de l'établissement (en 12 modalités);00;0 poste
+TREFF_12;Tranche d'effectif de l'établissement (en 12 modalités);01;De 1 à 4 postes
+TREFF_12;Tranche d'effectif de l'établissement (en 12 modalités);02;De 5 à 9 postes
+TREFF_12;Tranche d'effectif de l'établissement (en 12 modalités);03;De 10 à 19 postes
+TREFF_12;Tranche d'effectif de l'établissement (en 12 modalités);04;De 20 à 49 postes
+TREFF_12;Tranche d'effectif de l'établissement (en 12 modalités);05;De 50 à 99 postes
+TREFF_12;Tranche d'effectif de l'établissement (en 12 modalités);06;De 100 à 249 postes
+TREFF_12;Tranche d'effectif de l'établissement (en 12 modalités);07;De 250 à 499 postes
+TREFF_12;Tranche d'effectif de l'établissement (en 12 modalités);08;De 500 à 999 postes
+TREFF_12;Tranche d'effectif de l'établissement (en 12 modalités);09;De 1000 à 1999 postes
+TREFF_12;Tranche d'effectif de l'établissement (en 12 modalités);10;De 2000 à 4999 postes
+TREFF_12;Tranche d'effectif de l'établissement (en 12 modalités);11;5000 postes et plus
+TREFF_4;Tranche d'effectif de l'établissement (en 4 modalités);T;Ensemble
+TREFF_4;Tranche d'effectif de l'établissement (en 4 modalités);1;Moins de 10 postes
+TREFF_4;Tranche d'effectif de l'établissement (en 4 modalités);2;De 10 à 49 postes
+TREFF_4;Tranche d'effectif de l'établissement (en 4 modalités);3;De 50 à 499 postes
+TREFF_4;Tranche d'effectif de l'établissement (en 4 modalités);4;Plus de 500 postes
