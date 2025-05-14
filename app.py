@@ -37,12 +37,26 @@ def predict():
     try:
         data = request.get_json()
         experience = data["experience"]
-        job_title = data["job_title"]  # Nous récupérons le titre du job
+        job_title = data["job_title"]
         prediction = model.predict([[experience]])
         return jsonify({
             "predicted_salary": prediction[0],
-            "job_title": job_title  # Nous renvoyons aussi le titre du job
+            "job_title": job_title
         })
+    except Exception as e:
+        return jsonify({"error": str(e)})
+
+# Route pour obtenir les données du graphique
+@app.route("/get_data")
+def get_data():
+    try:
+        # Convertir les données en format adapté pour Chart.js
+        data_dict = {
+            "experience": data["experience"].tolist(),
+            "salary": data["salary"].tolist(),
+            "job_titles": data["job_title"].tolist()
+        }
+        return jsonify(data_dict)
     except Exception as e:
         return jsonify({"error": str(e)})
 
